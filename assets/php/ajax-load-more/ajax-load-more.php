@@ -1,22 +1,22 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="">
 	<meta name="author" content="">
-	
-	<title>Cherie Shedd</title>
-	
+
+	<title>Vortex - AJAX Portfolio HTML Template</title>
+
 	<!-- Favicons -->
 	<link rel="shortcut icon" href="assets/images/favicon.png">
 	<link rel="apple-touch-icon" href="assets/images/apple-touch-icon.png">
 	<link rel="apple-touch-icon" sizes="72x72" href="assets/images/apple-touch-icon-72x72.png">
 	<link rel="apple-touch-icon" sizes="114x114" href="assets/images/apple-touch-icon-114x114.png">
-	
+
 	<!-- Bootstrap core CSS -->
 	<link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-	
+
 	<!-- Plugins -->
 	<link href="assets/css/font-awesome.min.css" rel="stylesheet">
 	<link href="assets/css/ionicons.min.css" rel="stylesheet">
@@ -26,7 +26,7 @@
 	<link href="assets/css/superslides.css" rel="stylesheet">
 	<link href="assets/css/vertical.css" rel="stylesheet">
 	<link href="assets/css/animate.css" rel="stylesheet">
-	
+
 	<!-- Template core CSS -->
 	<link href="assets/css/style.css" rel="stylesheet">
 </head>
@@ -42,12 +42,12 @@
 	<div id="overlay-menu" class="overlay-menu">
 
 		<a href="#" id="overlay-menu-hide" class="navigation-hide"><i class="ion-close-round"></i></a>
-		
+
 		<div class="overlay-menu-inner">
 			<nav class="overlay-menu-nav">
-		
+
 				<ul id="nav">
-		
+
 					<li class="slidedown">
 						<a href="#">Home</a>
 						<ul>
@@ -60,23 +60,21 @@
 							<li><a href="index-7.html">Agency</a></li>
 						</ul>
 					</li>
-		
+
 					<li><a href="about.html">About</a></li>
-		
+
 					<li class="slidedown">
 						<a href="#">Portfolio</a>
 						<ul>
-							<li><a href="portfolio-single-1.html">Single 1 - standartd</a></li>
-							<li><a href="portfolio-single-2.html">Single 2 - gallery</a></li>
-							<li><a href="portfolio-single-3.html">Single 3 - full height</a></li>
-							<li><a href="portfolio-single-4.html">Single 4 - Slider</a></li>
-							<li><a href="portfolio-single-5.html">Single 5 - Youtube header</a></li>
+							<li><a href="portfolio-single-1.html">Single 1</a></li>
+							<li><a href="portfolio-single-2.html">Single 2</a></li>
+							<li><a href="portfolio-single-3.html">Single 3</a></li>
+							<li><a href="portfolio-single-4.html">Single 4</a></li>
+							<li><a href="portfolio-single-5.html">Single 5 </a></li>
 							<li><a href="portfolio-single-6.html">Single 6 with slider</a></li>
-							<li><a href="portfolio-single-7.html">Single 7 with Youtube</a></li>
-							<li><a href="portfolio-single-8.html">Single 8 with Vimeo</a></li>
 						</ul>
 					</li>
-		
+
 					<li class="slidedown">
 						<a href="#">News</a>
 						<ul>
@@ -86,7 +84,7 @@
 							<li><a href="blog-single.html">Single post</a></li>
 						</ul>
 					</li>
-		
+
 					<li class="slidedown">
 						<a href="#">Features</a>
 						<ul>
@@ -97,28 +95,28 @@
 							<li><a href="components-5.html">Modules & Overlays</a></li>
 						</ul>
 					</li>
-		
+
 					<li><a href="contact.html">Contact</a></li>
-		
+
 				</ul>
-		
+
 			</nav>
 		</div>
-		
+
 		<div class="overlay-navigation-footer">
-		
+
 			<div class="container">
-		
+
 				<div class="row">
-		
+
 					<div class="col-sm-12 text-center">
 						<p class="copyright font-alt m-b-0">© 2015 Vortex, All Rights Reserved.</p>
 					</div>
-		
+
 				</div>
-		
+
 			</div>
-		
+
 		</div>
 
 	</div>
@@ -131,7 +129,7 @@
 		<nav class="navbar navbar-custom navbar-transparent navbar-light navbar-fixed-top">
 
 			<div class="container">
-			
+
 				<div class="navbar-header">
 					<!-- YOU LOGO HERE -->
 					<a class="navbar-brand" href="index.html">
@@ -139,7 +137,7 @@
 						<img src="assets/images/logo-dark.png" width="95" alt="">
 					</a>
 				</div>
-			
+
 				<!-- ICONS NAVBAR -->
 				<ul id="icons-navbar" class="nav navbar-nav navbar-right">
 					<li>
@@ -151,13 +149,13 @@
 					</li>
 				</ul>
 				<!-- /ICONS NAVBAR -->
-			
+
 				<ul class="extra-navbar nav navbar-nav navbar-right">
 					<li><a href="index.html" title="Home">Home</a></li>
 					<li><a href="about.html" title="About">About</a></li>
 					<li><a href="contact.html" title="Contact">Contact</a></li>
 				</ul>
-			
+
 			</div>
 
 		</nav>
@@ -170,8 +168,8 @@
 			<div class="hero-caption">
 				<div class="hero-text">
 
-					<h1 class="mh-line-size-1 font-alt m-b-50">Cherie Shedd</h1>
-					<h5 class="mh-line-size-4 font-alt">Web Developer</h5>
+					<h1 class="mh-line-size-1 font-alt m-b-50">James Vortex</h1>
+					<h5 class="mh-line-size-4 font-alt">professional photographer</h5>
 
 				</div>
 			</div>
@@ -190,7 +188,7 @@
 
 					<div class="col-sm-12">
 						<ul id="filters" class="filters font-alt">
-							<li><a href="#" data-filter="*" class="current">All <sup><small>.355</small></sup></a></li>
+							<li><a href="#" data-filter="*"class="current">All <sup><small>.355</small></sup></a></li>
 							<li><a href="#" data-filter=".branding">Branding <sup><small>.78</small></sup></a></li>
 							<li><a href="#" data-filter=".design">Design <sup><small>.123</small></sup></a></li>
 							<li><a href="#" data-filter=".photo">Photo <sup><small>.144</small></sup></a></li>
@@ -358,7 +356,7 @@
 				<div class="row m-t-70 text-center wow fadeInUp">
 					<div class="col-sm-12">
 
-						<button id="show-more" class="btn btn-block btn-lg btn-g show-more">More works</button>
+						<button href="#" id="show-more" class="btn btn-block btn-lg btn-g show-more">More works</button>
 
 					</div>
 				</div>
@@ -373,11 +371,11 @@
 		<footer class="module bg-light">
 
 			<div class="container">
-			
+
 				<div class="row">
-			
+
 					<div class="col-sm-12">
-			
+
 						<ul class="social-text-links font-alt text-center m-b-20">
 							<li><a href="#">Facebook</a></li>
 							<li><a href="#">Google plus</a></li>
@@ -385,21 +383,21 @@
 							<li><a href="#">Linkedin</a></li>
 							<li><a href="#">Dribbble</a></li>
 						</ul>
-			
+
 					</div>
-			
+
 				</div>
-			
+
 				<div class="row">
-			
+
 					<div class="col-sm-12">
-			
+
 						<p class="copyright text-center m-b-0">© 2015 <a href="#">Vortex</a>, All Rights Reserved.</p>
-			
+
 					</div>
-			
+
 				</div>
-			
+
 			</div>
 
 		</footer>
