@@ -175,6 +175,7 @@ HEADER
 
 header.boxed{
   font-family: 'Playfair Display', serif;
+  letter-spacing: 5px;
   position:fixed;
   width:100%;
   margin:0 auto;
@@ -276,6 +277,7 @@ header .logo > a{
   line-height:80px;
   padding-right:40px;
   border-bottom: 1px solid #f1f1f1;
+  letter-spacing: 5px;
 }
 
 header .logo > a:hover{
