@@ -387,6 +387,7 @@ CONTENT
   color:#000000;
   font-weight:900;
   line-height:70px;
+  letter-spacing: 5px;
 }
 
 .content .text-intro p{
@@ -397,6 +398,7 @@ CONTENT
   line-height:22px;
   letter-spacing:1px;
   width:40%;
+  font-family: 'Lato', 'sans-serif';
 }
 
         .typed-cursor{
